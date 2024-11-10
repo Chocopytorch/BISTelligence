@@ -1,0 +1,7 @@
+log
+Key change at 0 to 329: Anomaly detected 51.67% early at index 170
+Key change at 330 to 629: Anomaly detected 95.32% early at index 615
+Key change at 630 to 937: Anomaly detected 95.77% early at index 924
+Key change at 938 to 1263: Anomaly detected 52.31% early at index 1108
+Key change at 1264 to 1513: Anomaly detected 99.60% early at index 1512
+Average early anomaly detection: 78.93%
